@@ -1,4 +1,4 @@
-import Link from "next/link";
+fimport Link from "next/link";
 import {
   Gift,
   ShoppingBag,
@@ -28,7 +28,7 @@ export default function Home() {
 
           ENTRE NO GRUPO DO WHATSAPP E RECEBA AS MELHORES OFERTAS
 
-        </div>s
+        </div>
 
       </header>
 
